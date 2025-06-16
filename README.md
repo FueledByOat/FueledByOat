@@ -20,6 +20,7 @@ I like computers. On here I'm building personal tools for enhancing my side proj
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras)
 
+
 **Other Languages:**  
 ![D3.js](https://img.shields.io/badge/-D3.js-F9A03C?logo=d3.js)
 ![R](https://img.shields.io/badge/-R-276DC3?logo=r)
@@ -39,6 +40,7 @@ I like computers. On here I'm building personal tools for enhancing my side proj
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter)
 ![Alteryx](https://img.shields.io/badge/-Alteryx-0D5BA5)
 
+
 **Cloud & Storage:**  
 ![Azure](https://img.shields.io/badge/-Azure-007FFF?logo=microsoft-azure)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server)
@@ -46,6 +48,7 @@ I like computers. On here I'm building personal tools for enhancing my side proj
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws)
 ![Snowflake](https://img.shields.io/badge/-Snowflake-56B9EB?logo=snowflake)
 ![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?logo=apache-hadoop)
+
 
 **Development & Version Control:**  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
@@ -76,5 +79,6 @@ I like computers. On here I'm building personal tools for enhancing my side proj
 
 ## 🌐 Find Me Elsewhere
 [LinkedIn](https://linkedin.com/in/smithcharlie) | [Email](mailto:charlie.smith.mn@protonmail.com)
+
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=FueledByOat&show_icons=true&theme=radical)
