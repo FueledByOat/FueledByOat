@@ -76,7 +76,7 @@ I like computers. On here I'm building personal tools for enhancing my side proj
 - **Running Analytics Hub** – Flask + Dash app for activity analysis and metrics
 - **RunnerVision** – Computer Vision based running form analysis
 - **Coach G** – Language model able to summarize running data
-- 
+- **RUNSTRONG** - Strength training application and visualization engine
 
 ## 🌐 Find Me Elsewhere
 [LinkedIn](https://linkedin.com/in/smithcharlie) | [Email](mailto:charlie.smith.mn@protonmail.com)
