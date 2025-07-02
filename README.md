@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Charlie!
 
-🏃‍♂️ Runner | 🧠 Data Engineer | 🧪 AI Explorer  
+🏃‍♂️ Runner | 🤖 Data / AI Engineer | 🧪 Technology Explorer  
 
 I like computers. On here I'm building personal tools for enhancing my side project, like analyzing running data to blend tech with performance, along with custom language learning.
 
