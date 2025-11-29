@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Charlie!
 
-🏃‍♂️ Runner | 🤖 Data / AI Engineer | 🧪 Technology Explorer  
+🏃‍♂️ Health Optimizer | 🤖 Data / AI Engineer | 🧪 Technology Explorer  
 
-I like computers. On here I'm building personal tools for enhancing my side project, like analyzing running data to blend tech with performance, along with custom language learning tools.
+I like computers. On here I'm building personal tools for enhancing my side projects, like analyzing running data to blend tech with performance, along with custom language learning tools.
 
 ## 🧠 Skills & Technologies
 
@@ -73,6 +73,7 @@ I like computers. On here I'm building personal tools for enhancing my side proj
 
 
 ## 🔥 Current Projects
+- **Language Learer** – Python and FastAPI app for learning Japanese and Chinese
 - **Running Analytics Hub** – Flask + Dash app for activity analysis and metrics
 - **RunnerVision** – Computer Vision based running form analysis
 - **Coach G** – Language model able to summarize running data
